@@ -16,14 +16,14 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
               [
-                  InlineKeyboardButton(text="🍁 sᴇssɪᴏɴ ɢᴇɴ ʙᴏᴛ 🍁️", url="https://t.me/suhan_string_robot"),
+                  InlineKeyboardButton(text="🍁 sᴇssɪᴏɴ ɢᴇɴ ʙᴏᴛ 🍁️", url="https://t.me/PHOENIX_SESSION_ROBOT"),
               ],
               [
-                  InlineKeyboardButton(text="🌿 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ 🌿", url="https://t.me/vanshi_support"),
+                  InlineKeyboardButton(text="🌿 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ 🌿", url="https://t.me/xyz_own_world"),
               ],
               [
                   InlineKeyboardButton("⌯ ˹𝐀𝐋𝐄𝐗 ♡ 𝐗ᴅ𓆪 ⌯ 🥂 / ‹𝟹 #𝐅ᴜᴄᴋ_𝐓ʜᴇ_𝐇ᴀᴛᴇʀ𝗌 ˼ 🇮🇳", url="https://t.me/LX_FOREVER"),
-                  InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ❄️️️", url="https://t.me/vanshi_support"),
+                  InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ❄️️️", url="https://t.me/SAIM_WORLD"),
               ],
               [
                   InlineKeyboardButton("🦅⃤𓆩𝛅 ⋏ ι 𝚳 <🥀/>𓆩❤️𓆪 ﹛🇨🇦﹜", url="https://t.me/DADDY_SAIM"),
