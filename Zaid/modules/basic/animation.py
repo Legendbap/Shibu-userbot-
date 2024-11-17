@@ -254,11 +254,11 @@ async def hajqag(client: Client, message: Message):
         return
     animation_interval = 3
     animation_ttl = range(0, 18)
-    await message.edit("Calling ㅤsaim (𝐁ᴀᴀᴘ of telegram)......")
+    await message.edit("Calling ㅤsᴀɪᴍ (𝐁ᴀᴀᴘ of telegram)......")
     animation_chars = [
-        "`Connecting To Telegram #_sᴛʀᴀɴɢᴇʀ`",
+        "`Connecting To Telegram #_sᴀɪᴍ`",
         "`Call Connected.`",
-        "`sᴛʀᴀɴɢᴇʀ: Hello ʙᴏʟ ᴍᴄ. ᴋᴏɴ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ ʜᴀɪ ᴛᴜ...ʙsᴅᴋᴇ ᴋʏᴀ ᴋᴀᴀᴍ ʜᴀɪ ᴛᴇʀᴀ..?`",
+        "`sᴀɪᴍ: Hello ʙᴏʟ ᴍᴄ. ᴋᴏɴ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ ʜᴀɪ ᴛᴜ...ʙsᴅᴋᴇ ᴋʏᴀ ᴋᴀᴀᴍ ʜᴀɪ ᴛᴇʀᴀ..?`",
         f"`Me:  ᴍᴇ ʜᴜɴ ᴛᴇʀᴀ` {DEFAULTUSER} ,`ᴍᴜᴛʜᴇ    ᴇᴋ ʀᴀɴᴅɪ ᴋɪ ɢᴀᴀɴᴅ🍃 ᴋɪ ɢᴀɴᴅ ᴍᴀʀɴɪ ʜᴀɪ..😁😁`",
         "`User Authorised.`",
         "`Calling ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃`  `At +916969696969`",
@@ -266,14 +266,14 @@ async def hajqag(client: Client, message: Message):
         "`Me: Hello ᴍᴄ, ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃...ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ...🤣🤣😂.`",
         "ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃 :ᴏᴋᴀʏ sɪʀ ʙᴜᴛ ᴘᴇʜʟᴇ #_saim ᴋᴀ ʙᴇᴛᴀ ᴋᴏɴ ʜᴀɪ ᴛᴜ?...😎`",
         f"`Me: ᴀʙᴇ ᴢʜᴀᴛᴜ, I Am` {DEFAULTUSER} ",
-        "`ㅤ sᴛʀᴀɴɢᴇʀ🍃 : ᴀʙᴇ ғᴀᴛᴇ ʜᴜʏᴇ ᴄᴏɴᴅᴀᴍ ᴋᴇ ɴᴀᴛɪᴊᴇ...🤣🤣\nʙsᴅᴋᴇ ɢʜᴀʀ ᴍᴇ ɢʜᴜsᴋᴇ ᴛᴇʀɪ ᴀᴍᴍᴀ ʙᴇʜᴇɴ ᴋᴀ ʀᴇᴘ ᴋᴀʀᴅᴜɴɢᴀ ᴢʜᴀᴛᴜ😜.`",
+        "`ㅤsᴀɪᴍ🍃 : ᴀʙᴇ ғᴀᴛᴇ ʜᴜʏᴇ ᴄᴏɴᴅᴀᴍ ᴋᴇ ɴᴀᴛɪᴊᴇ...🤣🤣\nʙsᴅᴋᴇ ɢʜᴀʀ ᴍᴇ ɢʜᴜsᴋᴇ ᴛᴇʀɪ ᴀᴍᴍᴀ ʙᴇʜᴇɴ ᴋᴀ ʀᴇᴘ ᴋᴀʀᴅᴜɴɢᴀ ᴢʜᴀᴛᴜ😜.`",
         "`Me: ᴀʙᴇ ʙsᴅᴋᴇ... ᴛᴇʟᴇɢʀᴀᴍ #_saim ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ ᴋɪ #_sᴛʀᴀɴɢᴇʀ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ...?😜.`",
-        "`ㅤ sᴛʀᴀɴɢᴇʀ🍃 : ʙᴇᴛᴇ...!! ɴᴀᴀ ᴊᴀᴍɪɴ ᴘᴇ ɴᴀ ᴀᴀsᴍᴀɴ ᴘᴇ...😉😉 ᴛᴇʀɪ ᴍᴀʏʏᴀ ᴋᴏ ᴄʜʜᴏᴅᴜɴɢᴀ ᴍᴇ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋᴇ ʜᴀᴠᴇʟɪ ᴘᴇ...🥵🥵.`",
+        "`ㅤ sᴀɪᴍ🍃 : ʙᴇᴛᴇ...!! ɴᴀᴀ ᴊᴀᴍɪɴ ᴘᴇ ɴᴀ ᴀᴀsᴍᴀɴ ᴘᴇ...😉😉 ᴛᴇʀɪ ᴍᴀʏʏᴀ ᴋᴏ ᴄʜʜᴏᴅᴜɴɢᴀ ᴍᴇ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋᴇ ʜᴀᴠᴇʟɪ ᴘᴇ...🥵🥵.`",
         "`Me: ʙʜᴀɪ...ʏᴀᴀʀ ᴍᴇʀɪ ɢᴀᴀɴᴅ ᴍᴀʀᴏ ʙᴜᴛ ᴍᴜᴊʜᴇ ᴍᴀғ ᴋᴀʀᴏ...🤯`",
-        "`ㅤ sᴛʀᴀɴɢᴇʀ🍃 : ʜɪʜɪʜɪ... ʏᴇ ʜᴜɪ ɴᴀ ʙᴀᴀᴛ....😁😁\nᴄʜᴀʟ ᴀᴀʙ ᴀᴀᴘɴɪ ʀᴀɴᴅɪ ᴍᴀʏʏᴀ ᴋᴏ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋᴇ ᴠᴄ ᴘᴇ ʙᴜʟᴀ ᴋᴇ ʟᴏᴠᴇ ᴜ ʙᴏʟɴᴇ  ᴋᴏ ʙᴏʟ😛😛.`",
+        "`ㅤ sᴀɪᴍ🍃 : ʜɪʜɪʜɪ... ʏᴇ ʜᴜɪ ɴᴀ ʙᴀᴀᴛ....😁😁\nᴄʜᴀʟ ᴀᴀʙ ᴀᴀᴘɴɪ ʀᴀɴᴅɪ ᴍᴀʏʏᴀ ᴋᴏ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋᴇ ᴠᴄ ᴘᴇ ʙᴜʟᴀ ᴋᴇ ʟᴏᴠᴇ ᴜ ʙᴏʟɴᴇ  ᴋᴏ ʙᴏʟ😛😛.`",
         "`Me: ʙʜᴀɪ ᴘʟᴢ ɢᴀʟɪ ᴍᴛ ᴅᴏ😥.`",
-        "`ㅤ sᴛʀᴀɴɢᴇʀ🍃 : ᴛᴏ #_saim ᴋᴏ ʙᴀᴀᴘ ʙᴏʟ ᴀᴜʀ...ᴄʜᴀʟ ʙʜᴀɢ ʏᴀʜᴀ sᴇ ᴍᴄ..ʙsᴅᴋᴇ ᴋᴇ ᴘʜɪʀ ᴄᴀʟʟ ᴋɪʏᴀ ᴛᴏ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋɪ ᴠᴄ ᴘᴇ ᴛᴇʀᴇ ʙᴀᴀᴘ ᴋɪ ᴄʜᴜᴛ ᴍᴀʀᴜɴɢᴀ..🤣🤣  \n🙈𝐓ɢ 𝐏ᴇ 𝐑ᴇʜɴᴀ 𝐇ᴀɪ 𝐓ᴏ🧐sᴛʀᴀɴɢᴇʀ 𝐊ᴏ 𝐁ᴀᴀᴘ💞ᴋᴀʜɴᴀ ʜᴀɪ🤪 @SHIVANSH474 👻 :)`",
-        "`Private Call Disconnected....ᴊᴏʀ sᴇ ʙᴏʟᴏ saim ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ🤣🤣🤣`",
+        "`ㅤ sᴀɪᴍ🍃 : ᴛᴏ #_saim ᴋᴏ ʙᴀᴀᴘ ʙᴏʟ ᴀᴜʀ...ᴄʜᴀʟ ʙʜᴀɢ ʏᴀʜᴀ sᴇ ᴍᴄ..ʙsᴅᴋᴇ ᴋᴇ ᴘʜɪʀ ᴄᴀʟʟ ᴋɪʏᴀ ᴛᴏ #_sᴛʀᴀɴɢᴇʀᴡᴏʀʟᴅ ᴋɪ ᴠᴄ ᴘᴇ ᴛᴇʀᴇ ʙᴀᴀᴘ ᴋɪ ᴄʜᴜᴛ ᴍᴀʀᴜɴɢᴀ..🤣🤣  \n🙈𝐓ɢ 𝐏ᴇ 𝐑ᴇʜɴᴀ 𝐇ᴀɪ 𝐓ᴏ🧐sᴛʀᴀɴɢᴇʀ 𝐊ᴏ 𝐁ᴀᴀᴘ💞ᴋᴀʜɴᴀ ʜᴀɪ🤪 @SHIVANSH474 👻 :)`",
+        "`Private Call Disconnected....ᴊᴏʀ sᴇ ʙᴏʟᴏ sᴀɪᴍ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ🤣🤣🤣`",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -342,7 +342,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [saim](https://t.me/vanshika_support) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [sᴀɪᴍ](https://t.me/SAIM_WORLD) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -398,7 +398,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.3)
     await message.edit("🔥🔥🔥")
     await asyncio.sleep(0.3)
-    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_saim ArRivE 🔥🔥🔥")
+    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_sᴀɪᴍ ArRivE 🔥🔥🔥")
 
 
 @Client.on_message(filters.command("charging", ".") & filters.me)
@@ -539,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑](https://t.me/SHIVANSH474)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [sᴀɪᴍ](https://t.me/SAIM_WORLD)"
     )
 
 
@@ -949,7 +949,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@vanshi_support ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫@DADDY_SAIM ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
